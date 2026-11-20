@@ -3,20 +3,24 @@
 A console (text based) program written in **C** that manages a car showroom: cars, customers, sales, bills and payments.
 This is our **Programming Fundamentals (CT-175) CCA project**.
 
-| | |
-|---|---|
-| **Student** | Faisal Irfan | | **Roll number** | CT-26247 |
-| **Student** | Sarim Ali    | | **Roll number** | CT-26245 |
-| **Student** | Abdul Rehman | | **Roll number** | CT-26231 |
-| **Student** | Shahzaib Rehman | | **Roll number** | CT-26233 |
+### Group Members
 
+| Student Name | Roll Number |
+| :--- | :--- |
+| Faisal Irfan | CT-26247 |
+| Sarim Ali | CT-26245 |
+| Abdul Rehman | CT-26231 |
+| Shahzaib Rehman | CT-26233 |
 
+### Project Details
+
+| Field | Details |
+| :--- | :--- |
 | **Course** | Programming Fundamentals (CT-175) - CCA Project |
-| **Department** | Computer Science & IT Department  |
+| **Department** | Computer Science & IT Department |
 | **Instructor** | Maham Ashraf |
 | **Language** | C (standard C, one source file) |
 
----
 
 ## 1. Project description
 
